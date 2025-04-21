@@ -27,8 +27,6 @@ This Power BI project analyzes retail transactional data to uncover insights abo
 - **Product & Category Performance**
 - **Store & Regional Analysis**
 
-> Screenshots of dashboards are available in the `/screenshots/` folder.
-
 ---
 
 ## 🔍 Key Insights
@@ -41,8 +39,6 @@ This Power BI project analyzes retail transactional data to uncover insights abo
 
 ## 📁 Repository Contents
 - `hhhhhhhh.pbix` – Power BI file
-- `Canva_Report.pdf` – Final project report
-- `Screenshots/` – Dashboard visuals
 - `README.md` – This summary
 
 ---
